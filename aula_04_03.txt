@@ -4,4 +4,4 @@
 - acessamos settings > developer settings > personal access token > tokens classic
 - gerenciador de credenciais do windows
 - colar o token no windows
---
+---
