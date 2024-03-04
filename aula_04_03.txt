@@ -1,0 +1,6 @@
+- Começamos a aula ele pedindo para deixar no estágio do git log
+- acessamos uma conta no GitHub
+- criamos uma repo chamada aulas_git
+- acessamos settings > developer settings > personal access token > tokens classic
+- gerenciador de credenciais do windows
+- colar o token no windows
